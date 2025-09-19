@@ -9,13 +9,11 @@ let reversedTeachers = null;
 // console.log(reversedTeachers)
 
 // METODO 2 (FOR)
-
 // let counter = teachers.length;
 // for (i=0; i<teachers.length; i++){
-//     console.log(teachers[i])
 //     counter -=1;
-//     console.log(counter)
-//     teachers.splice(teachers[i],i,teachers.length)
+//     let name = teachers.pop()
+//     teachers.splice(i, 0, name);
 // }
 // console.log(teachers)
 
