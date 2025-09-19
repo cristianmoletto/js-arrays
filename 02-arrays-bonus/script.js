@@ -13,9 +13,10 @@ let reversedTeachers = null;
 // for (i=0; i<teachers.length; i++){
 //     counter -=1;
 //     let name = teachers.pop()
-//     teachers.splice(i, 0, name);
+//     reversedTeachers = teachers.splice(i, 0, name);
 // }
-// console.log(teachers)
+// console.log(reversedTeachers)
+
 
 // 2. Crea un nuovo array chiamato 'longNames' che contenga solo gli insegnanti
 // con un nome di lunghezza maggiore o uguale a 5 caratteri
